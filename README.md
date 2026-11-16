@@ -1,2 +1,2 @@
-# testedasfun-oes
+# testedasfuncoes
 testando as funções 
